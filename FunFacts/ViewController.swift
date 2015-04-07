@@ -24,6 +24,7 @@ class ViewController: UIViewController {
 
     @IBAction func showFunFact() {
         funFactLabel.text = "Another interesting fact"
+        
     }
 
 }
