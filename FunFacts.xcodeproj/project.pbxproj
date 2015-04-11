@@ -14,6 +14,7 @@
 		5B2A45511AD356F3005838FF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B2A45501AD356F3005838FF /* Images.xcassets */; };
 		5B2A45541AD356F3005838FF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B2A45521AD356F3005838FF /* LaunchScreen.xib */; };
 		5B2A45601AD356F3005838FF /* FunFactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2A455F1AD356F3005838FF /* FunFactsTests.swift */; };
+		5B38DC541AD8D38D00915DD3 /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B38DC531AD8D38D00915DD3 /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		5B2A45591AD356F3005838FF /* FunFactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunFactsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B2A455E1AD356F3005838FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B2A455F1AD356F3005838FF /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
+		5B38DC531AD8D38D00915DD3 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				5B2A45501AD356F3005838FF /* Images.xcassets */,
 				5B2A45521AD356F3005838FF /* LaunchScreen.xib */,
 				5B2A45471AD356F2005838FF /* Supporting Files */,
+				5B38DC531AD8D38D00915DD3 /* ColorWheel.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				5B1993F81AD8B4C90063A492 /* FactBook.swift in Sources */,
 				5B2A454C1AD356F3005838FF /* ViewController.swift in Sources */,
 				5B2A454A1AD356F3005838FF /* AppDelegate.swift in Sources */,
+				5B38DC541AD8D38D00915DD3 /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
