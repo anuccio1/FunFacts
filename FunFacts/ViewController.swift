@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         view.backgroundColor = randColor
         funFactButton.tintColor = randColor
         funFactLabel2.text = factBook.randomFact()
+        
     }
 
 
